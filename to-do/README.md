@@ -1,3 +1,5 @@
+TO-DO-APPLICATION
+
 This is a Todo Application built with React.js that allows users to manage their tasks with CRUD (Create, Read, Update, Delete) functionalities. Users can create new tasks, edit existing ones, change task status, and filter tasks based on their status.
 
 Responsive Todo Application with CRUD functionalities using React.js.
@@ -7,6 +9,7 @@ Todo App Edit Preview
 Edit interface in a React-based Todo Application.
 Todo App Edit Preview
 ![alt text](<WhatsApp Image 2024-10-16 at 1.05.32 PM.jpeg>)
+
 
 Features
 Create Todo tasks with task name, description, and status.
@@ -21,7 +24,7 @@ HTML/CSS
 JavaScript
 How to Run the Application
 Clone the repository:
-git clone  https://github.com/renukakathirvel/day-25-task.git
+git clone https://github.com/renukakathirvel/To-Do-Task.git
 Navigate to the project directory:
 cd React-Todo-Application
 Install dependencies:
